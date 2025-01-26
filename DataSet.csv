@@ -1,0 +1,5 @@
+﻿"id,text_snippet,labels"
+"1,""We love the analytics, but CompetitorX has a cheaper subscription."",""Positive, Pricing Discussion, Objection"""
+"2,""Our compliance team is worried about data handling. Are you SOC2 certified?"",""Security"""
+"3,""Is there any discount available for the renewal cost?"",""Pricing Discussion"""
+"4,""CompetitorY offers better AI engine than yours."",""Competition, Objection"""
