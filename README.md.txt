@@ -17,7 +17,7 @@ This project implements an end-to-end NLP pipeline that performs:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/nlp-microservice.git
+git clone https://github.com/DeveloperShreyansh/nlp-microservice.git
 cd nlp-microservice
 2. Install Dependencies
 Ensure you have Python 3.9+ installed, then install the required dependencies:
